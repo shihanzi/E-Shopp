@@ -48,6 +48,18 @@ footer {
     background-color: #f3f3f3;
 }
 
+button {
+background-color: rgb(153, 238, 227);
+width: 100px;
+height: 30px;
+border:none;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
 @media (max-width: 768px) {
     .card {
         width: 45%;
